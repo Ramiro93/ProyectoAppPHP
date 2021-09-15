@@ -1,0 +1,35 @@
+body {
+    height: 100%;
+}
+
+.container {
+    height: 85%;
+}
+
+.font-logo {
+    font-family: 'Bangers', cursive;
+}
+
+.font-content {
+    font-family: 'Oswald', sans-serif;
+}
+
+.font-content-reporte {
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+.nav-item {
+    font-size: large;
+    font-family: 'Oswald', sans-serif;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.image-md {
+    height: auto;
+    width: 70%;
+    margin: 1em 3em;
+    box-shadow: 10px 10px 5px -9px rgba(0,0,0,0.75);
+}
